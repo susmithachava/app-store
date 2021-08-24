@@ -1,0 +1,18 @@
+.list-item {
+  color: #7b8794;
+  margin: 10px;
+  background-color: transparent;
+  font-size: 16px;
+  border-style: none;
+  cursor: pointer;
+}
+.active-list-item {
+  color: #2563eb;
+  margin: 10px;
+  border-bottom: 2px solid #2563eb;
+  background-color: transparent;
+  border-left: none;
+  border-top: none;
+  border-right: none;
+  cursor: pointer;
+}
